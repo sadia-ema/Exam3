@@ -1,0 +1,453 @@
+@media all and (max-width:1250px) {
+    .project-section .pprevicon {
+         display: none;
+    }
+    .project-section .pnexticon {
+        display: none;
+    }
+    .item-card {
+        width: 14rem;
+    }
+    .projects-item {
+        transition: .5s ease-in-out;
+        margin-bottom: 22px;
+    }
+    .why-choose-img {
+       text-align: center;
+    }
+    .artist-section .ppnexticon {
+      display: none;
+    }
+    .artist-section .ppprevicon {
+      display: none;
+    }
+    .expert-team .image img {
+        width: 400px;
+    }
+    .expert-team .image .social li a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }   
+    .about-image img:nth-child(2) {
+        right: 124px;
+      
+    }
+    .primary-menu li ul li a {
+       
+        font-size: 15px;
+      
+    }
+    .sub-dropdown {
+        margin-left: 102px;
+   
+    }
+    .primary-menu li ul {
+        left: 102px;
+    
+    }
+}
+
+@media all and (max-width:991px) {
+    .header-top-left {
+        text-align: center;
+        margin-bottom: 9px;
+    }
+    .text-end {
+        
+        text-align: center!important;
+        margin-top: 7px;
+    }
+    /* .primary-menu li ul {
+        left: 79px;
+        top: -9%;
+       
+    } */
+    .item-card {
+        width: 19rem;
+        margin-bottom: 22px;
+    }
+    .item-card.top3 {
+        top: 0px!important;
+    }
+    .item-card.top1 {
+        top: 0px!important;
+    }
+    .cards-section {
+        position: inherit;
+        top: 0px!important;
+    }
+    .item-card.top2 {
+        bottom: 0px!important;
+    }
+    .item-card.top4 {
+        bottom: 0px!important;
+    }
+    .about-image img:nth-child(2) {
+        right: 0px!important;
+    }
+    .single-services h3 a {
+        font-size: 20px;
+    }
+    .expert-team .image .social {
+        bottom: 39px;
+    
+    }
+    .counter-item{
+        margin-bottom: 21px;
+    }
+    .latest-item .image img {
+        width: 100%;
+    }
+    .footer-item {
+        padding: 18px 56px!important;
+    }
+    .carousel-caption h1 {
+        font-size: 47px;
+        color: #ffffffe0;
+    }
+    .carousel-caption p {
+        font-size: 13px;
+    }
+    .default-btn {
+   
+        padding-left: 17px;
+        padding-right: 17px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .about-content h3 {
+        font-size: 35px;
+    }
+    .about-content p {
+        font-size: 14px;
+    }
+    .single-services p {
+        font-size: 14px;
+    }
+    .element-section .element-item {
+        margin-bottom: 40px;
+    }
+    .primary-menu li ul {
+       left: 85px;
+       top: 30%;
+    
+    }
+}
+
+@media all and (max-width:855px) {
+    .carousel-caption h1 {
+        font-size: 44px;
+    }
+}
+@media all and (max-width:770px) {
+    .counter-item {
+        margin-bottom: 40px;
+    }
+    .footer-item .social li {
+        margin-right: 0px;
+    }
+    .footer-item p {
+        font-size: 13px;
+    }
+    .copyright-section {
+        padding-top: 18px;
+        padding-bottom: 7px;
+    }
+    .copyright-section p {
+       font-size: 14px;
+    }
+   
+    .item-card {
+        
+        margin-bottom: 22px;
+        width: 100%;
+        margin-top: 15px;
+    }
+    .experience-section {
+        padding: 81px 16px !important;
+    }
+    .projects-item a img {
+        /* max-width: 100%; */
+        width: 100%;
+    }
+}
+@media all and (max-width:670px) {
+    .carousel-caption h1 {
+        font-size: 35px;
+    }
+    .carousel-caption p {
+        font-size: 12px;
+    }
+    .experience-section {
+    
+        padding: 61px 30px !important;
+    }
+    .about-content h3 {
+        font-size: 33px;
+    }
+    .why-choose-content-left h3 {
+        font-size: 32px;
+      
+    }
+}
+
+@media all and (max-width:570px) {
+    .item-card {
+        margin-top: 15px;
+         margin-left: 0px;
+     }
+     .previcon i {
+        transform: translateX(5px);
+    }
+    .nexticon i {
+        transform: translateX(-5px);
+    
+    }
+    .footer-item p {
+        font-size: 16px;
+    }
+    .footer-item {
+        text-align: center;
+        position: inherit;
+    }
+    .footer-item h3 {
+        position: inherit;
+     
+    }
+    .footer-item .footer-contact-info li i {
+        position: absolute;
+        left: 175px;
+     
+      
+    }
+    .footer-item .quick-links li i {
+    
+        font-size: 13px;
+    }
+    .footer-item h3::before {
+   
+        background-color: transparent;
+    }
+    .footer-item .quick-links li a {
+     
+        left: 8px;
+        font-size: 17px;
+    }
+    .footer-item .footer-contact-info li i {
+    
+        display: none;
+    }
+    .footer-section {
+        padding-bottom: 0px !important;
+    }
+    .about-content h3 {
+        font-size: 29px;
+    }
+    .about-image img:nth-child(2) {
+ 
+        width: 235px;
+    }
+    .about-content p {
+        font-size: 13px;
+    }
+    .about-content .about-list li {
+     
+        font-size: 15px;
+    }
+    .about-content .about-list li i {
+        font-size: 20px;
+  
+    }
+    .default-btn {
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        font-size: 14px;
+    }
+    .section-header h2 {
+        font-size: 34px;
+    
+    }
+    .section-title h2 {
+        font-size: 30px;
+        
+    }
+    .why-choose-content-left h3 {
+        font-size: 26px;
+    }
+    .why-choose-content-left span {
+     
+        font-size: 14px;
+    }
+    .why-choose-content-left strong {
+        font-size: 15px;
+        
+    }
+    .why-choose-content-left .why-choose-text p {
+      
+        font-size: 14px;
+    }
+    .why-choose-content-left .why-choose-text h4 {
+        font-size: 21px;
+  
+    }
+    .why-choose-content-left .why-choose-text .icon i {
+    
+        height: 33px;
+        width: 33px;
+        line-height: 33px;
+       
+        font-size: 17px;
+     
+    }
+    .section-title h2 {
+        font-size: 28px;
+       
+    }
+    .expert-team .image img {
+        width: 371px;
+    }
+    .expert-team .image .social li a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 13px;
+    }
+    .appointment-content h3 {
+        font-size: 33px;
+      
+    }
+    .appointment-content p {
+     
+        font-size: 14px;
+    }
+    .artist-text p {
+        font-size: 14px;
+        line-height: 31px;
+    }
+    .latest-item .content h3 {
+        font-size: 20px;
+      
+    }
+    .carousel-caption h1 {
+        font-size: 30px;
+        margin-bottom: 33px;
+    }
+    .carousel-caption p {
+        font-size: 12px;
+        margin-bottom: 28px!important;
+    }
+    .carousel-caption {
+        margin-bottom: 222px;
+    }
+    .why-choose-content-left h3 {
+        font-size: 23px;
+    }
+    .why-choose-content-left strong {
+        font-size: 13px;
+    }
+    .why-choose-content-left .why-choose-text p {
+        font-size: 12px;
+    }
+    .scroller {
+        display: none;
+    }
+    .expert-team .image img {
+        width: 341px;
+    }
+    .experience-section {
+    
+        padding: 62px 26px !important;
+    }
+}
+@media all and (max-width:400px) {
+    .about-image img:nth-child(2) {
+        right: 0px !important;
+        width: 186px;
+    }
+    .copyright-section p {
+        font-size: 11px;
+    }
+    .scroller {
+        display: none;
+    }
+    .text-end {
+        font-size: 12px;
+    }
+    .header-top-left {
+   
+        font-size: 13px;
+    }
+    .why-choose-content-left .why-choose-text h4 {
+        font-size: 14px;
+    }
+    .why-choose-content-left .why-choose-text .icon i {
+        height: 26px;
+        width: 26px;
+        line-height: 26px;
+        font-size: 10px;
+    }
+    .why-choose-content-left .why-choose-text {
+        padding-left: 40px;
+        margin-top: 20px;
+    }
+    .expert-team .image img {
+        width: 311px;
+    }
+    .footer-item .footer-contact-info {
+      
+        margin-right: 32px;
+    }
+    .progress-title .text {
+        font-size: 15px!important;
+      
+    }
+    span.fifty {
+    
+        right: 112px!important;
+    }
+
+}
+@media all and (max-width:355px) {
+    .counter-item span {
+        font-size: 13px;
+    }
+    .about-content h3 {
+        font-size: 24px;
+    }
+    .about-section {
+        overflow: hidden;
+    }
+    .about-shape {
+        transform: translateY(-26%);
+        z-index: -1;
+        position: absolute;
+        top: 10%;
+        overflow: hidden;
+    }
+    .about-content {
+        
+        margin-top: 46px;
+    }
+}
+
+@media all and (max-width:350px) {
+    .section-header h2 {
+        font-size: 28px;
+    }
+    .single-services h3 a {
+        font-size: 19px;
+    }
+    .section-title h2 {
+        font-size: 25px;
+    }
+    .appointment-content h3 {
+        font-size: 31px;
+    }
+    .appointment-form .content h3 {
+        font-size: 23px;
+       
+    }
+}
